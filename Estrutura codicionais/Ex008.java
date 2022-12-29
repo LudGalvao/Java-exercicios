@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex14{
+public class Ex008{
 	public static void mian(String[]args) {
 		Scanner sc = new Scanner(System.in);
 		
