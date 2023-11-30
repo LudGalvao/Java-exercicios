@@ -1,0 +1,9 @@
+CREATE TABLE alunosinfo (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(150),
+    email VARCHAR(150),
+    cpf VARCHAR(11),
+    datanascimento VARCHAR(10),
+    naturalidade VARCHAR(150),
+    endereco VARCHAR(150)
+);
